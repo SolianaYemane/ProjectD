@@ -7,6 +7,7 @@ public class DemoD {
 		System.out.println("Sprint done");  
 
 }
+	//Good Job solia 
 	public void add(int a, int b){
 	   System.out.println(a+b); 
 
